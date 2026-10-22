@@ -1,0 +1,11 @@
+cluster,trips,share_of_sample,median_distance_km,median_duration_min,median_speed_kmh,circ_hour,weekend_share,top_day,top_day_share,airport_share,jfk_ewr_pickup,jfk_ewr_dropoff,lga_pickup,lga_dropoff,median_pickup_lat,median_pickup_lon,median_dropoff_lat,median_dropoff_lon,name
+1,7958,0.398,1.907,10.683,11.604,16.204,0.006,3,0.339,0.0,0.0,0.0,0.0,0.0,40.755,-73.982,40.754,-73.98,evening weekday medium Manhattan trips
+3,5607,0.28,2.21,10.083,14.291,18.602,0.931,5,0.496,0.0,0.0,0.0,0.001,0.0,40.752,-73.984,40.755,-73.981,evening weekend medium Manhattan trips
+2,2586,0.129,1.787,10.15,11.024,16.6,0.001,4,0.999,0.0,0.0,0.0,0.0,0.0,40.754,-73.982,40.753,-73.982,Friday Manhattan trips
+0,2105,0.105,1.721,9.117,12.06,15.433,0.0,0,1.0,0.0,0.0,0.0,0.0,0.0,40.756,-73.982,40.757,-73.98,Monday Manhattan trips
+5,513,0.026,9.783,30.667,20.207,16.586,0.248,0,0.17,0.0,0.0,0.0,0.981,0.0,40.774,-73.871,40.752,-73.979,LaGuardia pickups to Manhattan
+6,411,0.021,19.86,39.117,27.02,18.025,0.285,6,0.175,0.968,0.966,0.019,0.0,0.007,40.645,-73.783,40.742,-73.974,JFK/Newark pickups to Manhattan
+4,292,0.015,9.843,26.85,22.27,11.026,0.284,3,0.178,0.0,0.0,0.0,0.0,0.795,40.757,-73.98,40.77,-73.865,Manhattan rides to LaGuardia
+8,197,0.01,20.267,39.933,30.526,12.078,0.294,6,0.178,0.843,0.0,0.843,0.056,0.0,40.749,-73.982,40.645,-73.786,Manhattan rides to JFK/Newark
+7,62,0.003,1.732,3.625,27.943,4.968,0.0,4,0.855,0.0,0.0,0.0,0.016,0.0,40.751,-73.982,40.752,-73.984,late-night Friday Manhattan trips
+9,50,0.002,3.212,13.333,14.553,12.667,0.24,0,0.24,0.0,0.0,0.0,0.72,0.16,40.77,-73.871,40.758,-73.871,LaGuardia pickups to Queens
