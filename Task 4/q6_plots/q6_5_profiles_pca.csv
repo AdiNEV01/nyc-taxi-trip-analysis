@@ -1,0 +1,4 @@
+cluster,trips,share_of_sample,median_distance_km,median_duration_min,median_speed_kmh,circ_hour,weekend_share,top_day,top_day_share,airport_share,jfk_ewr_pickup,jfk_ewr_dropoff,lga_pickup,lga_dropoff,median_pickup_lat,median_pickup_lon,median_dropoff_lat,median_dropoff_lon,name
+0,19091,0.955,2.017,10.55,12.606,16.598,0.284,4,0.154,0.0,0.0,0.0,0.026,0.012,40.755,-73.982,40.755,-73.98,evening all-week medium Manhattan trips
+1,294,0.015,20.317,43.608,26.916,17.945,0.279,6,0.167,0.983,0.983,0.0,0.0,0.0,40.645,-73.783,40.75,-73.981,JFK/Newark pickups to Manhattan
+2,171,0.009,20.362,41.317,29.183,11.971,0.298,0,0.181,0.895,0.0,0.895,0.0,0.0,40.748,-73.985,40.645,-73.785,Manhattan rides to JFK/Newark
